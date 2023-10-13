@@ -1,5 +1,26 @@
 {
-    "projects": [
+    "requirements": [
+      { "id": 1, "name": "first customer",  "app": 1}
+    ],
+    "app": [
       { "id": 1, "name": "first customer"}
+    ],
+    "build": [
+      { "id": 1, "name": "first customer",  "app": 1}
+    ],
+    "appbackend": [
+      { "id": 1, "name": "first customer",  "app": 1}
+    ],
+    "appendpoint": [
+      { "id": 1, "name": "first customer",  "app": 1}
+    ],
+    "apptask": [
+      { "id": 1, "name": "first customer",  "app": 1}
+    ],
+    "company": [
+      { "id": 1, "name": "first customer"}
+    ],
+    "appaccount": [
+      { "id": 1, "name": "first customer",  "app": 1}
     ]
   }
